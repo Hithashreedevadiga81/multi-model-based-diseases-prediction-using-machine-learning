@@ -29,7 +29,7 @@ Please follow the below steps to run this project.
 3. [Liver disease dataset](https://www.kaggle.com/code/harisyammnv/liver-disease-prediction/data)
 4. [chronic kidney](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 5. [liver diseases](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records)
-6.[pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+6. [pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 <br></br>
 
