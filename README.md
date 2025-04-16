@@ -26,14 +26,10 @@ Please follow the below steps to run this project.
 ### Dataset Used
 1. [Diabetes disease dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data)
 2. [Heart disease dataset](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction/data)
-3. [Parkinsons disease dataset](https://www.kaggle.com/code/arunkumarpyramid/detection-parkinson-s-disease/data)
-4. [Liver disease dataset](https://www.kaggle.com/code/harisyammnv/liver-disease-prediction/data)
-5. [Hepatities disease dataset](https://kaggle.com/dataset2)
-6. [Jaundice disease dataset](https://kaggle.com/dataset2)
-7. [breast cancer](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data)
-8. [chronic kidney](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
-9. [liver diseases](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records)
-10.[pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+3. [Liver disease dataset](https://www.kaggle.com/code/harisyammnv/liver-disease-prediction/data)
+4. [chronic kidney](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
+5. [liver diseases](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records)
+6.[pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 <br></br>
 
